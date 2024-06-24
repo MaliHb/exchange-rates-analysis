@@ -16,7 +16,7 @@ This project fetches and analyzes historical exchange rates for AUD to NZD using
    jupyter notebook exchange_rates_analysis.ipynb
 
 ## Visualizations
-Line plot of exchange rates over time
-Histogram of exchange rates
-Box plot to show data spread and outliers
-Moving average plot
+- Line plot of exchange rates over time
+- Histogram of exchange rates
+- Box plot to show data spread and outliers
+- Moving average plot
