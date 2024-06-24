@@ -13,7 +13,9 @@ This project fetches and analyzes historical exchange rates for AUD to NZD using
 1. Install required packages:
    ```sh
    pip install yfinance pandas matplotlib seaborn mplfinance
+
 2. Run the script:
+   ```sh
    jupyter notebook exchange_rates_analysis.ipynb
 
 ## Visualizations
